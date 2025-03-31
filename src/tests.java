@@ -95,5 +95,5 @@ class Test {
         Assertions.assertEquals(false,inscripcion2.aprobada());
     }
 
-
+// No me lo toma como tests desde que lo copie y pegue para pasarlo al gitHub pero andaban todos.
 }
